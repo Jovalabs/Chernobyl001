@@ -2,7 +2,8 @@
 Data project: Measuring "crows flight-path" between U.S. chemical plants and U.S. K-12 schools.
 
 U.S. Schools Data source: https://nces.ed.gov/ccd/elsi/tableGenerator.aspx
-  -Table ID: 120599
+  -Table ID: 120599 //
+  
 U.S. EPA Chemical Plants Data source: https://echo.epa.gov/tools/data-downloads
 
 Update 1/6/20-
